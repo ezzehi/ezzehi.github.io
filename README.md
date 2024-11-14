@@ -1,8 +1,9 @@
 # About me
 
-I am a first year PhD student in the Modelisation Analysis and Simulation (MAS) of the CERMICS laboratory at Ecole Nationale des Ponts et Chaussées, in collaboration with IFP Energies Nouvelles (IFPEN). I am working under the supervision of Virginie Ehrlacher (CERMICS) and Guillaume Enchéry (IFPEN).
+I am a first year PhD student in the Modelisation Analysis and Simulation (MAS) pole of the [CERMICS laboratory]{https://cermics-lab.enpc.fr/}
+  at [Ecole Nationale des Ponts et Chaussées]{https://ecoledesponts.fr/}, in collaboration with [IFP Energies Nouvelles]{https://www.ifpenergiesnouvelles.fr/} (IFPEN). I am working under the supervision of [Virginie Ehrlacher]{http://cermics.enpc.fr/~ehrlachv/} (CERMICS) and Guillaume Enchéry (IFPEN).
 
-I am also a member of the MATHERIALS team at Inria Paris.
+I am also a member of the [MATHERIALS]{https://www.inria.fr/fr/matherials} team at [Inria Paris]{https://www.inria.fr/}.
 
 # PhD research
 
@@ -20,8 +21,8 @@ The associated models are formulated as flow equations in porous media with the 
 - Nov 2024 - Jan 2025: Teaching assistant for the course 1AEDP (Analysis and Partial Differential Equations) at Ecole Nationale des Ponts et Chaussées
 
 # Academic events
-- **CEA–EDF–Inria Summer Schools on model reduction**, July 2024 - EDF Lab, Palaiseau, France - *Attendee*
-- **Workshop SciML on Scientific Machine Learning**, June 2024 - Strasbourg University, France - *Poster presentation*
+- *CEA–EDF–Inria Summer Schools on model reduction*, July 2024 - EDF Lab, Palaiseau, France - *Attendee*
+- *Workshop SciML on Scientific Machine Learning*, June 2024 - Strasbourg University, France - *Poster presentation*
 
 # Contact
 **Address**: 
