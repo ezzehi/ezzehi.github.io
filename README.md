@@ -21,13 +21,19 @@ The associated models are formulated as flow equations in porous media with the 
 
 # Academic events
 - **CEA–EDF–Inria Summer Schools on model reduction**, July 2024 - EDF Lab, Palaiseau, France - *Attendee*
-- *Workshop SciML on Scientific Machine Learning*, June 2024 - Strasbourg University, France - *Poster presentation*
+- **Workshop SciML on Scientific Machine Learning**, June 2024 - Strasbourg University, France - *Poster presentation*
 
 # Contact
-**Address**: CERMICS, Ecole Nationale des Ponts et Chaussées
+**Address**: 
+
+CERMICS, Ecole Nationale des Ponts et Chaussées
+
 6-8 avenue Blaise Pascal
+
 Cité Descartes - Champs-sur-Marne
+
 77455 Marne-la-Vallée Cedex 2
+
 France
 
 **Email**: [first name].[last name]@enpc.fr
