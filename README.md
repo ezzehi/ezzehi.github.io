@@ -1,9 +1,9 @@
 # About me
 
-I am a first year PhD student in the Modelisation Analysis and Simulation (MAS) pole of the [CERMICS laboratory]{https://cermics-lab.enpc.fr/}
-  at [Ecole Nationale des Ponts et Chaussées]{https://ecoledesponts.fr/}, in collaboration with [IFP Energies Nouvelles]{https://www.ifpenergiesnouvelles.fr/} (IFPEN). I am working under the supervision of [Virginie Ehrlacher]{http://cermics.enpc.fr/~ehrlachv/} (CERMICS) and Guillaume Enchéry (IFPEN).
+I am a first year PhD student in the Modelisation Analysis and Simulation (MAS) pole of the [CERMICS laboratory](https://cermics-lab.enpc.fr/)
+  at [Ecole Nationale des Ponts et Chaussées](https://ecoledesponts.fr/), in collaboration with [IFP Energies Nouvelles](https://www.ifpenergiesnouvelles.fr/) (IFPEN). I am working under the supervision of [Virginie Ehrlacher](http://cermics.enpc.fr/~ehrlachv/) (CERMICS) and Guillaume Enchéry (IFPEN).
 
-I am also a member of the [MATHERIALS]{https://www.inria.fr/fr/matherials} team at [Inria Paris]{https://www.inria.fr/}.
+I am also a member of the [MATHERIALS](https://www.inria.fr/fr/matherials) team at [Inria Paris](https://www.inria.fr/).
 
 # PhD research
 
