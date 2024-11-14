@@ -38,4 +38,3 @@ Cité Descartes - Champs-sur-Marne
 France
 
 **Email**: [first name].[last name]@enpc.fr
-```
