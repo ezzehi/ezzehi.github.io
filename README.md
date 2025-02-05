@@ -28,8 +28,8 @@ The associated models are formulated as flow equations in porous media with the 
 **Address**: 
 
 CERMICS, Ecole Nationale des Ponts et Chaussées
-6-8 avenue Blaise Pascal
-Cité Descartes - Champs-sur-Marne
+
+6-8 avenue Blaise Pascal, Cité Descartes - Champs-sur-Marne
 77455 Marne-la-Vallée Cedex 2, France
 
 **Email**: [first name].[last name]@enpc.fr
