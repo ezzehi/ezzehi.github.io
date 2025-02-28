@@ -21,6 +21,7 @@ The associated models are formulated as flow equations in porous media with the 
 - Nov 2024 - Jan 2025: Teaching assistant for the course 1AEDP (Analysis and Partial Differential Equations) at Ecole Nationale des Ponts et Chaussées
 
 # Academic events
+- *DTE & AICOMAS 2025*, February 2025 - Arts et Métiers Institute of Technology, Paris, France - *Oral presentation*
 - *CEA–EDF–Inria Summer Schools on model reduction*, July 2024 - EDF Lab, Palaiseau, France - *Attendee*
 - *Workshop SciML on Scientific Machine Learning*, June 2024 - Strasbourg University, France - *Poster presentation*
 
@@ -32,4 +33,4 @@ CERMICS, Ecole Nationale des Ponts et Chaussées
 6-8 avenue Blaise Pascal, Cité Descartes - Champs-sur-Marne
 77455 Marne-la-Vallée Cedex 2, France
 
-**Email**: [first name].[last name]@enpc.fr
+**Email**: sofiane.ezzehi@enpc.fr
