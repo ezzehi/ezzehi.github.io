@@ -22,8 +22,8 @@ The associated models are formulated as flow equations in porous media with the 
 
 # Academic events
 - *DTE & AICOMAS 2025*, February 2025 - Arts et Métiers Institute of Technology, Paris, France - *Oral presentation*
-- *CEA–EDF–Inria Summer Schools on model reduction*, July 2024 - EDF Lab, Palaiseau, France - *Attendee*
-- *Workshop SciML on Scientific Machine Learning*, June 2024 - Strasbourg University, France - *Poster presentation*
+- *Workshop SciML on Scientific Machine Learning*, July 2024 - Strasbourg University, France - *Poster presentation*
+- *CEA–EDF–Inria Summer Schools on model reduction*, June 2024 - EDF Lab, Palaiseau, France - *Attendee*
 
 # Contact
 **Address**: 
