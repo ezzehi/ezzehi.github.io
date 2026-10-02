@@ -22,10 +22,13 @@ I am interested in combining projection-based model reduction, neural networks a
 
 # Teaching
 
-- Feb 2026 - Jun 2026: Supervision of first-year student projects on model order reduction and Physics-Informed Neural Networks (PINNs) at Ecole Nationale des Ponts et Chaussées
-- Feb 2026 - Apr 2026: Teaching assistant for PRAMA (Machine Learning Methods) at Ecole Nationale des Ponts et Chaussées
-- Nov 2025 - Jan 2026: Teaching assistant for Analysis at Ecole Nationale des Ponts et Chaussées
-- Nov 2024 - Jan 2025: Teaching assistant for Analysis and Partial Differential Equations at Ecole Nationale des Ponts et Chaussées
+- Feb 2026 - Jun 2026: Supervision of first-year student projects on model order reduction and Physics-Informed Neural Networks (PINNs) at Ecole Nationale des Ponts et Chaussées.
+
+- Feb 2026 - Apr 2026: Teaching assistant for PRAMA (Practice of Machine Learning Methods) at Ecole Nationale des Ponts et Chaussées — exercise classes and computer lab sessions. Main topics: statistical learning, decision and regression trees (CART), bagging and random forests, gradient boosting, support vector machines (SVM), and deep learning, with practical implementation in Python.
+
+- Nov 2025 - Jan 2026: Instructor for 1AEDP (Analysis and Partial Differential Equations) at Ecole Nationale des Ponts et Chaussées — lectures and exercise classes. Main topics: normed vector spaces, Banach spaces and the Picard fixed-point theorem, Hilbert spaces and orthogonal projections, measure theory, and Lebesgue integration.
+
+- Nov 2024 - Jan 2025: Teaching assistant for 1AEDP (Analysis and Partial Differential Equations) at Ecole Nationale des Ponts et Chaussées — exercise classes.
 
 # Academic events
 
