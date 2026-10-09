@@ -1,6 +1,6 @@
-# s89ne.github.io
+# ezzehi.github.io
 
-Personal website of Sofiane Ezzehi, served by GitHub Pages at https://s89ne.github.io/.
+Personal website of Sofiane Ezzehi, served by GitHub Pages at https://ezzehi.github.io/.
 
 Plain static site: no build step, no Jekyll theme (`.nojekyll` tells GitHub Pages to serve the files as they are).
 
@@ -8,7 +8,7 @@ Plain static site: no build step, no Jekyll theme (`.nojekyll` tells GitHub Page
 
 | URL | File |
 |---|---|
-| https://s89ne.github.io/ | `index.html` (About, research interests, latest preprint) |
+| https://ezzehi.github.io/ | `index.html` (About, research interests, latest preprint) |
 | /cv/ | `cv/index.html` (short CV + link to the PDF) |
 | /teaching/ | `teaching/index.html` |
 | /publications/ | `publications/index.html` |
