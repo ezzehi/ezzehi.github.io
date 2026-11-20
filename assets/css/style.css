@@ -1,7 +1,6 @@
 /* =====================================================================
    Sofiane Ezzehi – personal website
    Layout: top navigation, profile sidebar on the left, page content on the right.
-   Palette taken from a geological cross-section (CO2 storage reservoir).
    ===================================================================== */
 
 :root {
@@ -218,9 +217,6 @@ a:hover { color: var(--link-hover); text-decoration-thickness: 2px; }
   background: var(--link-hover);
   text-decoration: none;
 }
-@media (prefers-color-scheme: dark) {
-  .button:hover { background: var(--link-hover); }
-}
 
 /* ---------- Main content ---------- */
 
@@ -349,6 +345,7 @@ p { margin: 0 0 1rem; }
   /* On phones the profile card only appears on the home page,
      so other pages open directly on their content. */
   .subpage .profile { display: none; }
+
   .profile .profile-affil { margin-top: 0.6rem; }
 }
 

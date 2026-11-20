@@ -14,16 +14,15 @@ Plain static site: no build step, no Jekyll theme (`.nojekyll` tells GitHub Page
 | /publications/ | `publications/index.html` |
 | /events/ | `events/index.html` (talks, posters, schools, organisation) |
 
-Shared files: `assets/css/style.css` (colors, fonts, layout), `assets/img/Sofiane_Ezzehi_Photo.png`,
-`assets/CV_Sofiane_Ezzehi.pdf`, `favicon.svg`.
+Shared files: `assets/css/style.css`, `assets/img/Sofiane_Ezzehi_Photo.png`, `assets/CV_Sofiane_Ezzehi.pdf`, `favicon.svg`.
 
 ## Common updates
 
 - **New paper:** in `publications/index.html`, copy an `<li class="entry">` block, paste it above the existing one, edit it.
 - **New talk or poster:** same in `events/index.html` (most recent first).
 - **New CV:** overwrite `assets/CV_Sofiane_Ezzehi.pdf` with a file of the same name.
-- **Sidebar, menu or footer:** they are repeated at the top and bottom of each of the 5 pages, so make the same change in all 5 files.
+- **Sidebar, menu or footer:** repeated in each of the 5 pages; make the same change in all 5 files.
 
 ## Preview locally
 
-In this folder, run `python3 -m http.server`, then open http://localhost:8000 in a browser (Ctrl+C in the terminal to stop).
+In this folder, run `python3 -m http.server`, then open http://localhost:8000 (Ctrl+C to stop).
